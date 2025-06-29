@@ -10,18 +10,13 @@ Its providing comprehensive details about each property, including amenities, pr
 - 👉 View Live Website:- 
 
 # 🚀Features
--- Property Listings:
- -Browse a wide range of PG accommodations.
+- Property Listings:
+ - Browse a wide range of PG accommodations.
  
  # Detailed Information: 
  - Get detailed descriptions, photos, and amenities for each property.
  
   ![Screenshot 2025-01-31 211502](https://github.com/user-attachments/assets/ec6455c1-d2e6-4ebc-8a7e-36d161a48700)
-
-# Booking System: 
-- Book a PG directly through the platform.
-
-   ![pg_life](https://github.com/user-attachments/assets/cbd3e5b5-02c8-43d2-9575-3edef8a96fc5)      ![pg_life2](https://github.com/user-attachments/assets/7b24e613-5f8f-4945-85b3-9d3841c585ab)
 
 # Search Filters: 
 - Use filters to narrow down your search based on location, price, and more.
